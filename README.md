@@ -22,7 +22,7 @@ TaskHub is a task management application built using Flutter and Supabase. It fe
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/taskhub.git
+   git clone https://github.com/mohammedanas007/taskhub.git
    cd taskhub
    
 
